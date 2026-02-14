@@ -13,5 +13,7 @@
   "bWouldBlacklistedPlayersReceiveMsg": true,
   "bWouldBlacklistedPlayerQuitWhileLaunch": false,
   "bWouldHackersReceiveLoserUIInGame": true,
+  "bWouldBlacklistedPlayerReceiveLoserUIInGame": false,
   "bCanAdminBanPlayers": false
+
 }
