@@ -1,6 +1,6 @@
 {
   "arHackedBlacklistedPlayersCurName": ["H01!Plays"],
-  "arHackedBlacklistedPlayersID": [76561199527743391],
+  "arHackedBlacklistedPlayersID": ["76561199527743391"],
   "arAdminPlayersCurName": [],
   "arAdminPlayersID": [],
   "arDeveloperPlayersName": [],
@@ -16,4 +16,5 @@
   "bWouldBlacklistedPlayerReceiveLoserUIInGame": false,
   "bCanAdminBanPlayers": false
 }
+
 
